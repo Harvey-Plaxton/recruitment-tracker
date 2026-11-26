@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Non_Negative_Salary</fullName>
+    <active>true</active>
+    <errorConditionFormula>Salary_Expectation__c  &lt; 0</errorConditionFormula>
+    <errorDisplayField>Salary_Expectation__c</errorDisplayField>
+    <errorMessage>Salary Expectation cannot be negative</errorMessage>
+</ValidationRule>
