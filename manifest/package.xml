@@ -11,5 +11,8 @@
   <types><members>*</members><name>ApexClass</name></types>
   <types><members>*</members><name>ApexTrigger</name></types>
   <types><members>*</members><name>LightningComponentBundle</name></types>
+  <types><members>*</members><name>PermissionSetGroup</name></types>
+  <types><members>*</members><name>SharingRules</name></types>
+  <types><members>*</members><name>Group</name></types>
   <version>68.0</version>
 </Package>
