@@ -21,6 +21,7 @@
     <tabs>Candidate__c</tabs>
     <tabs>Position__c</tabs>
     <tabs>Application__c</tabs>
+    <tabs>Review__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>FlowsApp_UtilityBar</utilityBar>
 </CustomApplication>

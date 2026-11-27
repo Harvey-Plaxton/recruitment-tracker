@@ -26,6 +26,7 @@
     <tabs>Candidate__c</tabs>
     <tabs>Position__c</tabs>
     <tabs>Application__c</tabs>
+    <tabs>Review__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
@@ -43,6 +44,9 @@
         </mappings>
         <mappings>
             <tab>Property__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Review__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>
